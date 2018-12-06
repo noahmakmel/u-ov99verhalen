@@ -1,0 +1,74 @@
+body {
+    background-color: #F9F9F9;
+    font-family: roboto;
+
+}
+
+header {
+    background-color: #685C53
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -px;
+    width: 50%;
+    z-index: 1;
+}
+
+hgroup {
+    width: 40em;
+    height: 106px;
+    border-radius: .25em;
+    background-color: white;
+    padding-top: .25em;
+    display: flex;
+
+}
+
+#intro {
+    background-color: #FCD900;
+    display: flex;
+    padding-bottom: 200px
+}
+
+h1 {
+    color: #E5711E;
+    font-size: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#vvdmf {
+    width: 50%;
+    border-radius: .25em;
+}
+
+h4 {
+    background-color: white;
+    border-radius: .25em;
+    padding: 1em;
+    width: 277px;
+    margin-top: -100px;
+    margin-left: 200px;
+    z-index: 2;
+    color: white;
+}
+
+#leesverder {
+    color: #70B2E1;
+    text-decoration: underline;
+
+}
+.menu{
+    width: 10%;
+    height: 10%;
+    margin-top: -5px;
+}
+
+li {
+    display: inline-flex;
+
+}
+
